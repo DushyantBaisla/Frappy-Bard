@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Frappy Bard.sln"
+    "dotnet.defaultSolution": "Frappy-Bard.sln"
 }
